@@ -11,7 +11,7 @@ docker run --rm -v $PWD/dane:/app/dane/ cpp-akai
 
 ## Lokalnie
 
-Zależności: nhlohmann/json, cmake
+Zależności: nlohmann/json, cmake
 
 ```bash
 vcpkg install nlohmann-json
