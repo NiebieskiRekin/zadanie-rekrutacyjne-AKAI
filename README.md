@@ -6,7 +6,7 @@ Zadanko konsolidacja na danych w c++
 
 ![workflow](https://github.com/NiebieskiRekin/zadanie-rekrutacyjne-AKAI/actions/workflows/docker-image.yml/badge.svg)
 
-![hub.docker.com/r/niebieskirekin/cpp-akai](https://hub.docker.com/r/niebieskirekin/cpp-akai/tags)
+[hub.docker.com/r/niebieskirekin/cpp-akai](https://hub.docker.com/r/niebieskirekin/cpp-akai/tags)
 
 ```bash
 docker build . -t cpp-akai
